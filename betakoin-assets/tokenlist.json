@@ -1,0 +1,26 @@
+{
+  "name": "BETAKOIN Token List",
+  "timestamp": "2025-07-20T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/namakamu/betakoin-assets/main/assets/polygon/0x2511071390725947E8Df15DdE2Fc66D8DbD0226e/logo.png",
+  "keywords": ["betakoin", "polygon", "erc20", "staking", "deflationary"],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x2511071390725947E8Df15DdE2Fc66D8DbD0226e",
+      "name": "BETAKOIN",
+      "symbol": "BETAKOIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/betakoin/betakoin-assets/main/assets/polygon/0x2511071390725947E8Df15DdE2Fc66D8DbD0226e/logo.png",
+      "extensions": {
+        "website": "https://betakoin.biz.id",
+        "telegram": "https://t.me/betakoin",
+        "description": "BETAKOIN is a multi-utility token on the Polygon network supporting staking, burning, NFT integration, and community rewards through airdrops and loyalty programs."
+      }
+    }
+  ]
+}
