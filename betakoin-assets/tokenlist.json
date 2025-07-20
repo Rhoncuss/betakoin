@@ -6,7 +6,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/namakamu/betakoin-assets/main/assets/polygon/0x2511071390725947E8Df15DdE2Fc66D8DbD0226e/logo.png",
+  "logoURI": "https://bafybeifqbhrmvrym66j6gpytff5xowryop73nv36m3xw7etlwom3wopwse.ipfs.dweb.link/?filename=logo-betacoin.png",
   "keywords": ["betakoin", "polygon", "erc20", "staking", "deflationary"],
   "tokens": [
     {
@@ -15,7 +15,7 @@
       "name": "BETAKOIN",
       "symbol": "BETAKOIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/betakoin/betakoin-assets/main/assets/polygon/0x2511071390725947E8Df15DdE2Fc66D8DbD0226e/logo.png",
+      "logoURI": "https://bafybeifqbhrmvrym66j6gpytff5xowryop73nv36m3xw7etlwom3wopwse.ipfs.dweb.link/?filename=logo-betacoin.png",
       "extensions": {
         "website": "https://betakoin.biz.id",
         "telegram": "https://t.me/betakoin",
